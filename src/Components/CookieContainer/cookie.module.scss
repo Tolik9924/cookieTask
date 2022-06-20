@@ -1,0 +1,42 @@
+.cookieContainer {
+    background: #fff;
+    width: 1200px;
+    height: 600px;
+}
+
+.span {
+    padding-top: 10px;
+}
+
+.wordLeft {
+    margin-left: 10%;
+    font-size: 40px;
+}
+
+.wordRight {
+    margin-left: 20%;
+    font-size: 40px;
+}
+
+.cookieItem {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    margin-top: 10px;
+    margin-left: 10%;
+    font-size: 30px;
+}
+
+.value {
+    margin-top: 10px;
+    margin-left: 15%;
+    font-size: 30px;
+}
+
+.button {
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 65%;
+}
